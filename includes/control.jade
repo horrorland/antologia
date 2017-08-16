@@ -1,4 +1,5 @@
 script.
+  var origin = window.location.href.split("#")[0];
   var items = document.getElementsByClassName("index-item");
   var arrow_left = document.getElementById("arrow-left");
   var arrow_right = document.getElementById("arrow-right");
@@ -13,7 +14,7 @@ script.
     item.onclick = function(){
       var _name_ = this.getAttribute("data-id");
       onChangePage(_name_);
-      window.location.href = window.location.origin + "#" + _name_;
+      window.location.href = origin + "#" + _name_;
       return false;
     }
   }
@@ -21,7 +22,7 @@ script.
   var _arrows_ = function(){
     var name = this.getAttribute("href").substring(1, this.getAttribute("href").length);
     onChangePage(name);
-    window.location.href = window.location.origin + "#" + name;
+    window.location.href = origin + "#" + name;
     return false;
   }
 
@@ -73,7 +74,7 @@ script.
     var i = chapters.indexOf(name);
     if(i<0){
       i = 0;
-      window.location.href = window.location.origin + "#" + chapters[i];
+      window.location.href = origin + "#" + chapters[i];
     }
     onChangePage(chapters[i]);
   }
