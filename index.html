@@ -166,7 +166,8 @@ Después de haber leído las notas, entró en mí un vacío de extrema agonía, 
 <p>- Déjame hipnotizarte mi querida Yani, tómalo como una rutina de trabajo-, pero ella rió aún más aturdidoramente que yo, sus gritos eran de burla, imagina a una mujer completamente loca y diabólica, con ojos llenos de fuego, parecían más grandes de lo normal, me miró y rió una vez mas con esa voz que nunca ha dejado de resonar en mi mente, y sus palabras me dejaron en el extremo del miedo.</p>
 
 <p>- Es malo fiarse del pasado y de los escritos de uno mismo, ¿No recuerdas quien fue el primero querido?-</p>
-</div><div id="control"><a id="arrow-left" href="#" class="arrow">&nbsp;</a><a id="arrow-right" href="#" class="arrow">&nbsp;</a></div><script>var items = document.getElementsByClassName("index-item");
+</div><div id="control"><a id="arrow-left" href="#" class="arrow">&nbsp;</a><a id="arrow-right" href="#" class="arrow">&nbsp;</a></div><script>var origin = window.location.href.split("#")[0];
+var items = document.getElementsByClassName("index-item");
 var arrow_left = document.getElementById("arrow-left");
 var arrow_right = document.getElementById("arrow-right");
 var chapters = Array();
@@ -180,7 +181,7 @@ for(i=0; i<items.length; i++){
   item.onclick = function(){
     var _name_ = this.getAttribute("data-id");
     onChangePage(_name_);
-    window.location.href = window.location.origin + "#" + _name_;
+    window.location.href = origin + "#" + _name_;
     return false;
   }
 }
@@ -188,7 +189,7 @@ for(i=0; i<items.length; i++){
 var _arrows_ = function(){
   var name = this.getAttribute("href").substring(1, this.getAttribute("href").length);
   onChangePage(name);
-  window.location.href = window.location.origin + "#" + name;
+  window.location.href = origin + "#" + name;
   return false;
 }
 
@@ -240,7 +241,7 @@ window.onload = function(){
   var i = chapters.indexOf(name);
   if(i<0){
     i = 0;
-    window.location.href = window.location.origin + "#" + chapters[i];
+    window.location.href = origin + "#" + chapters[i];
   }
   onChangePage(chapters[i]);
 }</script></body></html>

@@ -31,7 +31,8 @@ ga('send', 'pageview');</script></head><body><h1>Bailando con el Diablo</h1><p>H
 <p>Sabia que el momento se aproximaba, era cada vez más cercano y que en cualquier momento Lestat clavaría sus blancos y filosos colmillos en su cuello.</p>
 <p>Pero el momento se iba, la noche pasaba tan rápidamente que en cualquier momento amanecería. Fue entonces cuando despertó de ese letargo, no pensaba que aquel despertar fuera tan amargo, la cabeza junto con todos los músculos de su cuerpo le dolían, una sed tremenda le invadía, no sabía si era de sangre o de algún otro líquido, un rayo de luz le mitigo a ver, su piel empezaba a re-estirarse y sabia que el sol podía matarla; pero no pasaba nada. Miró a su alrededor para darse un deleite de las cosas nuevas que podía ver como ser oscuro (como en sus libros literarios de vampiros), pero ni la propia oscuridad se aparecía en aquella brillante sala.</p>
 <p>La ignorancia la tenía ciega, ¡no era un ser oscuro, no era como Lestat o Louis, ni siquiera como el Drácula de Bram Stoker!, el sol no le dañaba en lo mínimo más que lo cotidiano causado por la tremenda cruda del Vodka adulterado que bebió la noche anterior, a ello se debía el dolor de cuerpo y aún más a esa sed tremenda de agua y no de sangre.</p>
-<p>- Poetisa estúpida, martirio patrimonial adquieres de tu país –, dijo al darse cuenta que el ser de la noche anterior no era más que un tonto humano, que vasto a sus capacidades intelectuales le permitieron acostarse con una bella y ebria mujer abogada y robarle todo su dinero, tarjetas de crédito y hasta el mismo auto. Corrompida por la verdad, su literatura se dedujo no a una prosa si no unas cuantas palabras “...Poetisa pendeja, no es Nueva Orleáns o Paris o cosa por el estilo, es el DF”.</p><script>var items = document.getElementsByClassName("index-item");
+<p>- Poetisa estúpida, martirio patrimonial adquieres de tu país –, dijo al darse cuenta que el ser de la noche anterior no era más que un tonto humano, que vasto a sus capacidades intelectuales le permitieron acostarse con una bella y ebria mujer abogada y robarle todo su dinero, tarjetas de crédito y hasta el mismo auto. Corrompida por la verdad, su literatura se dedujo no a una prosa si no unas cuantas palabras “...Poetisa pendeja, no es Nueva Orleáns o Paris o cosa por el estilo, es el DF”.</p><script>var origin = window.location.href.split("#")[0];
+var items = document.getElementsByClassName("index-item");
 var arrow_left = document.getElementById("arrow-left");
 var arrow_right = document.getElementById("arrow-right");
 var chapters = Array();
@@ -45,7 +46,7 @@ for(i=0; i<items.length; i++){
   item.onclick = function(){
     var _name_ = this.getAttribute("data-id");
     onChangePage(_name_);
-    window.location.href = window.location.origin + "#" + _name_;
+    window.location.href = origin + "#" + _name_;
     return false;
   }
 }
@@ -53,7 +54,7 @@ for(i=0; i<items.length; i++){
 var _arrows_ = function(){
   var name = this.getAttribute("href").substring(1, this.getAttribute("href").length);
   onChangePage(name);
-  window.location.href = window.location.origin + "#" + name;
+  window.location.href = origin + "#" + name;
   return false;
 }
 
@@ -105,7 +106,7 @@ window.onload = function(){
   var i = chapters.indexOf(name);
   if(i<0){
     i = 0;
-    window.location.href = window.location.origin + "#" + chapters[i];
+    window.location.href = origin + "#" + chapters[i];
   }
   onChangePage(chapters[i]);
 }</script></body></html>

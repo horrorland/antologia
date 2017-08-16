@@ -9,7 +9,8 @@ ga('send', 'pageview');</script></head><body><h1>Prologo</h1><p>Mi nombre es Jor
 <p>En un pequeño lapso de mi temprana juventud, logré escribir relatos cortos inspirados en los cuentos extraordinarios de Edgar Allan Poe.</p>
 <p>Por supuesto no pretendo ni acercarme siquiera a un solo nivel de similitud con Poe, pero siempre pretendí querer lograr lo mismo. Qué, a través de un relato corto, el lector pudiera sentir miedo y pánico tan solo de leer pocas hojas.</p>
 <p>Es así pues, que, retomo estos pequeños cuentos que escribí algun día para no dejarlos olvidados y abandonados en un fichero de algun ordenador viejo de mi casa.</p>
-<p>Espero los disfrutes lector, recuerda que los escribi a la edad de 15 años.</p><script>var items = document.getElementsByClassName("index-item");
+<p>Espero los disfrutes lector, recuerda que los escribi a la edad de 15 años.</p><script>var origin = window.location.href.split("#")[0];
+var items = document.getElementsByClassName("index-item");
 var arrow_left = document.getElementById("arrow-left");
 var arrow_right = document.getElementById("arrow-right");
 var chapters = Array();
@@ -23,7 +24,7 @@ for(i=0; i<items.length; i++){
   item.onclick = function(){
     var _name_ = this.getAttribute("data-id");
     onChangePage(_name_);
-    window.location.href = window.location.origin + "#" + _name_;
+    window.location.href = origin + "#" + _name_;
     return false;
   }
 }
@@ -31,7 +32,7 @@ for(i=0; i<items.length; i++){
 var _arrows_ = function(){
   var name = this.getAttribute("href").substring(1, this.getAttribute("href").length);
   onChangePage(name);
-  window.location.href = window.location.origin + "#" + name;
+  window.location.href = origin + "#" + name;
   return false;
 }
 
@@ -83,7 +84,7 @@ window.onload = function(){
   var i = chapters.indexOf(name);
   if(i<0){
     i = 0;
-    window.location.href = window.location.origin + "#" + chapters[i];
+    window.location.href = origin + "#" + chapters[i];
   }
   onChangePage(chapters[i]);
 }</script></body></html>

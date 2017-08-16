@@ -4,7 +4,8 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
 ga('create', 'UA-104772867-1', 'auto');
-ga('send', 'pageview');</script></head><body><title>Antología de Terror :: Jorge Hernández</title><meta charset="utf8"><meta name="author" content="Jorge Hernández"><meta name="description" content="Pruebas"><meta name="handheldfriendly" content="true"><meta name="mobileoptimized" content="320"><meta name="theme-color" content="#000"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="cleartype" content="on"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><link rel="stylesheet" href="./css/main.css"><script>var items = document.getElementsByClassName("index-item");
+ga('send', 'pageview');</script></head><body><title>Antología de Terror :: Jorge Hernández</title><meta charset="utf8"><meta name="author" content="Jorge Hernández"><meta name="description" content="Pruebas"><meta name="handheldfriendly" content="true"><meta name="mobileoptimized" content="320"><meta name="theme-color" content="#000"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="cleartype" content="on"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><link rel="stylesheet" href="./css/main.css"><script>var origin = window.location.href.split("#")[0];
+var items = document.getElementsByClassName("index-item");
 var arrow_left = document.getElementById("arrow-left");
 var arrow_right = document.getElementById("arrow-right");
 var chapters = Array();
@@ -18,7 +19,7 @@ for(i=0; i<items.length; i++){
   item.onclick = function(){
     var _name_ = this.getAttribute("data-id");
     onChangePage(_name_);
-    window.location.href = window.location.origin + "#" + _name_;
+    window.location.href = origin + "#" + _name_;
     return false;
   }
 }
@@ -26,7 +27,7 @@ for(i=0; i<items.length; i++){
 var _arrows_ = function(){
   var name = this.getAttribute("href").substring(1, this.getAttribute("href").length);
   onChangePage(name);
-  window.location.href = window.location.origin + "#" + name;
+  window.location.href = origin + "#" + name;
   return false;
 }
 
@@ -78,7 +79,7 @@ window.onload = function(){
   var i = chapters.indexOf(name);
   if(i<0){
     i = 0;
-    window.location.href = window.location.origin + "#" + chapters[i];
+    window.location.href = origin + "#" + chapters[i];
   }
   onChangePage(chapters[i]);
 }</script></body></html>

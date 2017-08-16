@@ -20,7 +20,8 @@ ga('send', 'pageview');</script></head><body><h1>Almohada</h1><p>Como olvidar su
 <p>Los recuerdos me perturban..., sus deslumbrantes escenas que no duran mas de un segundo y cambian constantemente explotan en mi cabeza. Hay de mí, que de un dolor agonizante grito en silencio, no más que de la sangre del corazón mismo he derramado sobre mi alma, la he manchado todas las noches...</p>
 <p>...Excavando sobre aquella tierra de fétido olor y cubierto de lodo por la lluvia terminé. Mis alaridos sobrepasaban las luces de la muerte, con mis propias uñas excave, y excave, llamándola para mi felicidad. No soportaba llegar a ese cuarto borracho de angustia y melancolía encontrando solo mi almohada sobre la cama que de manchas rojas está. El silencio que creaba me perturbaba y penetraba hasta mi cerebro, se hundía sobre mi pecho, millones de alfileres traspasaban mi corazón una y otra vez, y ella simplemente posaba en cama en silencio. La llenaba de besos y carisias que sin respuesta alguna me dañaban.</p>
 <p>En repudios decesos bailaba con ella mezclándonos entre la oscuridad del cuarto y la poca luminosidad de las velas. La melodía nos mecía juntos, sus ojos permanecían cerrados y caía ante mí por su débil fuerza, parecía una muñeca sobre mis manos, cantaba en grandes himnos de vida que veía sobre sus ojos, bailábamos gozando del ritmo sinfónico. No puedo reconocer entre sueños y realidad, o era la fuerza del amor que me tenía ciego ante la muerte misma de mis pesadillas; no podía tomar mi mano mucho menos brindarme una caricia, la dejaba sobre la cama con los brazos juntos posando para mí como una pintura olvidada...</p>
-<p>...Mirando el techo una idea macabra recorrió mi mente, ¡no!, ¡Imposible!, le miré, quieta y los recuerdos volvieron causándome un dolor sobre los ojos. La tomé en mis brazos y la abrase, llenándola de besos como cada noche, hundiéndome con ella en ese abismo de amor, le susurraba “ce es la plus belle dame que j&#39;ai vu”. Recorría todo su cabello rizado que noche con noche se opacaba más pero que se vislumbraba por lo hermoso de sus azules ojos como zafiros sobre la noche. La tocaba de pies a cabeza y besaba por todos lados, me llenaba de sangre y pedazos de carne putrefacta colgaban de mis dedos, me hundía tan profundamente y le hacía el amor como cada noche... ...desde el día de su muerte...</p><script>var items = document.getElementsByClassName("index-item");
+<p>...Mirando el techo una idea macabra recorrió mi mente, ¡no!, ¡Imposible!, le miré, quieta y los recuerdos volvieron causándome un dolor sobre los ojos. La tomé en mis brazos y la abrase, llenándola de besos como cada noche, hundiéndome con ella en ese abismo de amor, le susurraba “ce es la plus belle dame que j&#39;ai vu”. Recorría todo su cabello rizado que noche con noche se opacaba más pero que se vislumbraba por lo hermoso de sus azules ojos como zafiros sobre la noche. La tocaba de pies a cabeza y besaba por todos lados, me llenaba de sangre y pedazos de carne putrefacta colgaban de mis dedos, me hundía tan profundamente y le hacía el amor como cada noche... ...desde el día de su muerte...</p><script>var origin = window.location.href.split("#")[0];
+var items = document.getElementsByClassName("index-item");
 var arrow_left = document.getElementById("arrow-left");
 var arrow_right = document.getElementById("arrow-right");
 var chapters = Array();
@@ -34,7 +35,7 @@ for(i=0; i<items.length; i++){
   item.onclick = function(){
     var _name_ = this.getAttribute("data-id");
     onChangePage(_name_);
-    window.location.href = window.location.origin + "#" + _name_;
+    window.location.href = origin + "#" + _name_;
     return false;
   }
 }
@@ -42,7 +43,7 @@ for(i=0; i<items.length; i++){
 var _arrows_ = function(){
   var name = this.getAttribute("href").substring(1, this.getAttribute("href").length);
   onChangePage(name);
-  window.location.href = window.location.origin + "#" + name;
+  window.location.href = origin + "#" + name;
   return false;
 }
 
@@ -94,7 +95,7 @@ window.onload = function(){
   var i = chapters.indexOf(name);
   if(i<0){
     i = 0;
-    window.location.href = window.location.origin + "#" + chapters[i];
+    window.location.href = origin + "#" + chapters[i];
   }
   onChangePage(chapters[i]);
 }</script></body></html>
