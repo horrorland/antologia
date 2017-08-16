@@ -1,14 +1,18 @@
-div.chapter
+div(class="chapter inactive",id="main")
   h1(class="title text_center") Antología de Terror
   h1(class="author text_center") Jorge Hernández
 
-div(class="chapter")
+div(class="chapter inactive", id="index")
   h1 Índice
   ol.index
     for chapter, slug in public.chapters._data
       li 
-        a(href="#"+slug) #{ chapter.title }
+        a(href="#"+slug, class="index-item", data-id=slug) #{ chapter.title }
 
 for chapter, slug in public.chapters._data
-  div(class="chapter", id="#{ slug }")
+  div(class="chapter inactive", id="#{ slug }")
     != partial("chapters/" + slug)
+
+div#control
+  a#arrow-left(class="arrow",href="#") &nbsp;
+  a#arrow-right(class="arrow",href="#") &nbsp;

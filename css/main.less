@@ -44,11 +44,6 @@ h4, h5, h6{
   font-size: 120%;
   font-weight: 200;
 }
-.index{
-  margin-left: 20px;
-  margin-right: 20px;
-  font-size: 90%;
-}
 .sofia{
   font-family: 'Sofia', cursive;
 }
@@ -115,6 +110,40 @@ pre{
 .pagecounter{
   content: counter(page);
 }
+.index{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 90%;
+}
+#control{
+  position: fixed;
+  top: 50%;
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
+@media screen{
+  .inactive{
+    display: none;
+  }
+  .arrow{
+    display: block;
+    height: 50px;
+    width: 50px;
+  }
+  #arrow-left{
+    float: left;
+    background-image: url(back.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+  }
+  #arrow-right{
+    float: right;
+    background-image: url(next.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+  }
+}
 @media print{
   html, body, table {
     font-family: 'Fauna One', serif;
@@ -153,6 +182,9 @@ pre{
   .new_line{
     page-break-before: always;
   }
+  #control{
+    display: none;
+  }
 }
 @media screen and (max-width: 1024px){
   body{
@@ -169,7 +201,7 @@ pre{
   div.chapter{
     padding-bottom: 50px;
     margin-bottom: 50px;
-    border-bottom: 1px solid #DDD;
+    //border-bottom: 1px solid #DDD;
   }
 }
 @media screen and (min-width: 1024px){
@@ -182,6 +214,6 @@ pre{
   div.chapter{
     padding-bottom: 30px;
     margin-bottom: 40px;
-    border-bottom: 1px solid #DDD;
+    //border-bottom: 1px solid #DDD;
   }
 }
