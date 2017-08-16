@@ -35,4 +35,81 @@ Después de haber leído las notas, entró en mí un vacío de extrema agonía, 
 
 <p>- Déjame hipnotizarte mi querida Yani, tómalo como una rutina de trabajo-, pero ella rió aún más aturdidoramente que yo, sus gritos eran de burla, imagina a una mujer completamente loca y diabólica, con ojos llenos de fuego, parecían más grandes de lo normal, me miró y rió una vez mas con esa voz que nunca ha dejado de resonar en mi mente, y sus palabras me dejaron en el extremo del miedo.</p>
 
-<p>- Es malo fiarse del pasado y de los escritos de uno mismo, ¿No recuerdas quien fue el primero querido?-</p></body></html>
+<p>- Es malo fiarse del pasado y de los escritos de uno mismo, ¿No recuerdas quien fue el primero querido?-</p><script>var items = document.getElementsByClassName("index-item");
+var arrow_left = document.getElementById("arrow-left");
+var arrow_right = document.getElementById("arrow-right");
+var chapters = Array();
+    chapters.push("main");
+    chapters.push("index");
+
+for(i=0; i<items.length; i++){
+  var item = items[i];
+  var name = item.getAttribute("data-id");
+  chapters.push(name);
+  item.onclick = function(){
+    var _name_ = this.getAttribute("data-id");
+    onChangePage(_name_);
+    window.location.href = window.location.origin + "#" + _name_;
+    return false;
+  }
+}
+
+var _arrows_ = function(){
+  var name = this.getAttribute("href").substring(1, this.getAttribute("href").length);
+  onChangePage(name);
+  window.location.href = window.location.origin + "#" + name;
+  return false;
+}
+
+arrow_left.onclick = _arrows_;
+arrow_right.onclick = _arrows_;
+
+function onChangePage(name){
+  var current = chapters.indexOf(name);
+
+  if(i<0){
+    return;
+  }
+
+  for(i=0; i<chapters.length; i++){
+    var item = document.getElementById(chapters[i]);
+    if(!item.classList.contains('inactive')){
+      item.classList.add('inactive');
+    }
+  }
+
+  var page = document.getElementById(name);
+      page.classList.remove("inactive");
+
+  if(current > 0){
+    arrow_left.setAttribute("href", "#" + chapters[current-1]);
+  }
+  else{
+    arrow_left.setAttribute("href", "#" + chapters[0]);
+  }
+  if(current+1 < chapters.length){
+    arrow_right.setAttribute("href","#" + chapters[current+1]);
+  }
+  
+}
+
+document.addEventListener("keydown", function(e){
+  switch(e.keyCode){
+    case 37:
+      arrow_left.onclick();
+      break;
+    case 39:
+      arrow_right.onclick();
+      break;
+  }
+});
+
+window.onload = function(){
+  var name = window.location.href.split("#")[1];
+  var i = chapters.indexOf(name);
+  if(i<0){
+    i = 0;
+    window.location.href = window.location.origin + "#" + chapters[i];
+  }
+  onChangePage(chapters[i]);
+}</script></body></html>

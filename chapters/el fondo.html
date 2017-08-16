@@ -40,4 +40,81 @@ Enferma mental.
 A los 42 años de edad, tras el divorcio de su segundo matrimonio, Rhutny Klevar Berenice asesinó a su hijastra llamada Macthiel de tan solo 12 años de edad.
 </pre>
 
-<p>Con demasiada frecuencia repite una historia a la que llama “El fondo”.</p></body></html>
+<p>Con demasiada frecuencia repite una historia a la que llama “El fondo”.</p><script>var items = document.getElementsByClassName("index-item");
+var arrow_left = document.getElementById("arrow-left");
+var arrow_right = document.getElementById("arrow-right");
+var chapters = Array();
+    chapters.push("main");
+    chapters.push("index");
+
+for(i=0; i<items.length; i++){
+  var item = items[i];
+  var name = item.getAttribute("data-id");
+  chapters.push(name);
+  item.onclick = function(){
+    var _name_ = this.getAttribute("data-id");
+    onChangePage(_name_);
+    window.location.href = window.location.origin + "#" + _name_;
+    return false;
+  }
+}
+
+var _arrows_ = function(){
+  var name = this.getAttribute("href").substring(1, this.getAttribute("href").length);
+  onChangePage(name);
+  window.location.href = window.location.origin + "#" + name;
+  return false;
+}
+
+arrow_left.onclick = _arrows_;
+arrow_right.onclick = _arrows_;
+
+function onChangePage(name){
+  var current = chapters.indexOf(name);
+
+  if(i<0){
+    return;
+  }
+
+  for(i=0; i<chapters.length; i++){
+    var item = document.getElementById(chapters[i]);
+    if(!item.classList.contains('inactive')){
+      item.classList.add('inactive');
+    }
+  }
+
+  var page = document.getElementById(name);
+      page.classList.remove("inactive");
+
+  if(current > 0){
+    arrow_left.setAttribute("href", "#" + chapters[current-1]);
+  }
+  else{
+    arrow_left.setAttribute("href", "#" + chapters[0]);
+  }
+  if(current+1 < chapters.length){
+    arrow_right.setAttribute("href","#" + chapters[current+1]);
+  }
+  
+}
+
+document.addEventListener("keydown", function(e){
+  switch(e.keyCode){
+    case 37:
+      arrow_left.onclick();
+      break;
+    case 39:
+      arrow_right.onclick();
+      break;
+  }
+});
+
+window.onload = function(){
+  var name = window.location.href.split("#")[1];
+  var i = chapters.indexOf(name);
+  if(i<0){
+    i = 0;
+    window.location.href = window.location.origin + "#" + chapters[i];
+  }
+  onChangePage(chapters[i]);
+}</script></body></html>
