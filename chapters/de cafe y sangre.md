@@ -1,0 +1,56 @@
+# De café y sangre
+
+Sed testigos de vuestro mal, del ensueño de la muerte. No temáis a la muerte; podemos ser tan supremos a ella, al miedo no, el miedo es tan supremo a nosotros, les contare.
+
+Me encontraba en medio de la calle, la lluvia lo cubría todo, mire los edificios, parecían estar inclinados de una extraña manera como a punto de caer, sin embargo no cubrían en nada a la lluvia, el agua me caía por toda la cara, me resbalaba desde el pelo hasta mi barbilla, ¿Qué me hacía seguir ahí?, todo aquello me pareció tan absurdo. Mirad, personas, autos, basura, y mas basura, una ciudadela llena de contaminación, contaminaciones comunes, tóxica, lumínica, auditiva, visual, bla bla bla, y la peor de todas, la emocional.
+
+Cuantos habrá de nosotros que somos víctimas viles de la actualidad, viviendo de una visceral monotonía gris, pero, ¿lo monótono existirá realmente?, entonces vi la luna en pleno día, esplendorosa, ¡enorme!, tan enorme que parecía una cúpula en el cielo, como el sol. Podía divisar los enormes cráteres sobre su superficie, en verdad era grande, la lógica no me decía nada hasta que respire un par de veces.
+
+¿Una luna con tal diámetro, enorme, cercana?, ¿Nada igual mire antes?. Algo peor vino después, apareció frente a mí algo extraño y horrendo, digo algo por jamás haberle visto antes, y digo horrendo por que provoco en mi miedo. Era algo, un animal, un hombre, todo a la vez, tenía cuerpo de caballo, cuernos de toro, una pata de gallo, un pecho peludo como de león, alas de halcón, y un hocico del que emanaba un olor horrendo, se abrió en él mostrándome todas las cavidades de sus dientes y entonces habló “Bienvenido”, grite, y solo desee ser un monótono tomando café por la mañana.
+
+Desperté y lo único que vi fue el vapor salir de una taza, una simple taza de café probablemente negro que mire a mi costado, escuche un tic, y luego un tac, y después otro tic, y otro tac, escuche el silencio, ¿Habéis escuchado el silencio?, yo lo hice, me encontraba recostado, en uno de esos sillones que usan los “Trata locos”, y decir como estaba yo, diré que sudaba, diré que respiraba agitado, diré que no encontraba un punto de agudeza especial a la normalidad.
+
+Escuche una voz, era ligera, entonada y clara - No te levantes, respira profundo, yo me haré cargo de todo, ¿aun deseas ese café que me pediste antes de iniciar la hipnosis?, espero lo recuerdes -.
+
+Temí, temí mucho, temí no saber lo que me pasaba, fue en tan solo unos segundos que algunos recuerdos volvieron como una película maltratada y vieja, la recordaba a ella, Yani, amiga mía desde la universidad, recordaba este consultorio, recordaba a que me dedicaba, era psicólogo, un prestigiado hombre dedicado a la ciencia, me es sorprendente la forma en que recuerdo todo, y del mismo modo me es sorprendente que no recuerde algunas cosas.
+
+Acabada de recobrar la razón, me encontraba en mi auto, claro está que no era yo quien iba al volante, pero miraba todo tan distante de mí, me sentía tan fuera de ser yo, y tuve la inquietud de preguntarle a mi amiga sobre lo ocurrido - me dirás idiota pero, dime, ¿que hacíamos en el consultorio? -, dije y mire en su rostro sorpresa. Sus ojos fijaban camino en las calles, calló por unos instantes antes de responder y luego dijo - La presunción no era común en ti, ¡es verdad!, no recuerdas nada, disculpa, cuando lleguemos a casa te explicare con mas detalle -, no me sentí nada satisfecho con lo que había dicho, y solo esperé.
+
+Estábamos ya dentro, sentía una enorme necesidad saber sobre lo que había ocurrido, y le pedí que se quedara, que me diera consuelo, y aplacara esta incertidumbre. Nos sentamos, recordaba la sala de mi casa, una sala poco colorida que se debía a mis gustos nostálgicos, las paredes de color verdio, un techo gris, cuadros con una sutileza abstracta en particular muy góticos.
+
+Encendí la cafetera para preparar café, y le serví uno, mientras tanto, ella encendía un cigarrillo. Ni siquiera me ofreció uno, sabía que los detestaba. Le pedí que me dijera tanto cuanto supiera, y aun sorprendida solo opto por complacer mi petición.
+
+<p>- Aun me parece increíble que no lo recuerdes, y si decirte lo que sé te hace sentir mejor lo haré. Verás, hace tiempo, me pediste que te hipnotizara siguiendo aquellos pasos específicos que diseñaste hace algún tiempo -, hizo una larga pausa mientras dejaba salir un espeso humo de sus labios, los mojó y prosiguió, - Sé que no te gustan las conversaciones y para no aburrirte, aquí están los escritos de tu investigación, espero me digas el meollo del asunto-, entonces, sacó de su maletín un cuaderno de cubierta de piel negra; se trataba de mis escritos, y sin más demora le eche un vistazo a los últimos apuntes.</p>
+
+22:01 horas 8 de agosto. Hipnosis
+
+Estoy a punto de iniciar el experimento, me he elegido como conejillo de indias, debo aclarar que es posible que nada recuerde por lo que debo ser muy detallista en todo, en hojas anteriores a esta existe una vasta y completa investigación sobre esto.
+
+Sin mas demoras, ahora tomare las píldoras de la sustancia que no mencionare en esta ocasión pero que diré su funcionamiento.
+
+Reacciona sin previo aviso, las preparé yo mismo, harán efecto dentro de una hora, así que probablemente surtan efecto a las 13 horas con algunos minutos, tal vez 5 o 6, lapso en el cual estaré en un estado hipnótico para después según mi teoría, superar el estadío anímico de la muerte, según mi investigación, es factible.
+
+Estando hipnotizado nada hará mi cuerpo hasta despertar. Le he encargado la tarea de hipnotismo a una reconocida compañera de la rama de psicoanálisis mental, y poco me preocupo de su trabajo, le he dado pasos específicos para realizarlo, cual motivo no he dicho aun si no hasta haber comprobado mi teoría. ¿dejará de ser esto teoría?, no lo sé.
+Continuo.
+
+22:05 horas, ya he tomado el par de píldoras, no siento ningún síntoma aun.
+
+22:48 horas, ha llegado la doctora Yani, y en un par de minutos iniciaremos el proceso, solo me falta finalizar este texto diciendo que el efecto que tienen las pastillas es el siguiente:
+
+(Píldora negra) Primero coagulará mi sangre, la harán espesa, la condensarán por lo que el flujo de ella en mi cuerpo será excesivamente lento, el fin de este proceso es detener mi corazón, solo eso, y cuando por fin se haya detenido, entonces moriré en el concepto científico de la palabra. Las partículas de la sustancia contenidas en las píldoras iniciaran entonces el segundo proceso.
+Hago una pausa, suspiro y vuelvo a leer.
+
+(Píldora verde a iniciar proceso un poco más tarde) Se trata de una anti-bacteria que regularán mi sangre y la harán tan líquida como lo era en un principio, con el fin de preparar mi cuerpo a lo que supongo será un nuevo estado de vida, de lo contrario mi teoría será solo una efímera idea y moriré.
+
+22:52 horas, temo, temo por no saber que sucederá, estas son mis últimas palabras que escribiré, y en este momento daré la investigación a la doctora, en quien confío plenamente.
+Después de haber leído las notas, entró en mí un vacío de extrema agonía, me tome del brazo, no sentí pulso alguno, note en mi piel una extraña coloración, no muy diferente a la común, y una sensación que superaba todo sentido en mí.
+
+Entonces reí, reí como un loco, grite hasta enclaustrar cualquier movimiento en la sala, hasta ahuyentar a cualquier espíritu que pudiera morar cerca. Mi amiga por supuesto me miraba aun con mas asombro y más que eso, con una gran preocupación.
+
+El motivo de la risa, no sabría explicarlo, me incomodaba, era como el eructo de una comida deliciosa que sale sin dar aviso, mire el café negro sobre la mesa, pero no causo en mi ningún estímulo, reía por que estaba muerto, no, muerto no, vivo y muerto a la vez, ¿y que placer me daba eso?, no me entenderías, y a fin de estar mas complacido una idea de gran malicia me inundo, no solo habría preparado un par de píldoras como esa, lo sabia, me conocía a mi mismo y aunque no retengo esos recuerdos, sabía que las otras píldoras se encontraban en algún lugar de mi escritorio.
+
+<p>- Te sientes bien, espero ya lo hayas recordado- dijo, y entonces me acerque a ella, y si me hubiese visto en un espejo juraría que mis ojos cambiaron de forma, denotaba mi malicia, ¿adivinas que haría con el otro par de píldoras y con Yani la doctora?, apuesto a que no.</p>
+
+<p>- Déjame hipnotizarte mi querida Yani, tómalo como una rutina de trabajo-, pero ella rió aún más aturdidoramente que yo, sus gritos eran de burla, imagina a una mujer completamente loca y diabólica, con ojos llenos de fuego, parecían más grandes de lo normal, me miró y rió una vez mas con esa voz que nunca ha dejado de resonar en mi mente, y sus palabras me dejaron en el extremo del miedo.</p>
+
+<p>- Es malo fiarse del pasado y de los escritos de uno mismo, ¿No recuerdas quien fue el primero querido?-</p>

@@ -1,0 +1,35 @@
+# Almohada
+
+Como olvidar sus pequeños ojos claros que me recordaban al cielo azul sin nube alguna que mostrara rastro de impureza, se asomaban entre su cabellera rubia rizada que le caía sobre sus mejillas.
+
+La más hermosa mujer que había visto en la tierra, y que provocó en mi un tumulto de sensaciones coordinadas como notas sobre el aire. Sin duda alguna caí a sus pies como cae un suicida ante un desfiladero sin fin. Su gran singularidad sarcástica de tomar una plática entre personas de gran saber sobre los temas muy concurridos entre los "intelectuales" me conquistaba. Pero sabía que en sus momentos de soledad todo su semblante desaparecía y dejaba ver a través de un cristal a una mujer de única pasión sobre la muerte.
+
+Fue hasta hace poco que me di cuenta de su verdadera personalidad y no de la máscara que usaba ante la sociedad. Llevaba más de 2 años de conocerla y ahora era mi esposa, y poco más de 3 meses que me di cuenta de ello. Era como si no la conociera, la miraba sobre la cama sentada ante la única luz de una veladora, mirando al vacío de la habitación, dejando escurrir lágrimas que apenas podía ver ante la poca luminosidad que la cubría. ¿A que se debía?.
+
+No más que a su deseo de morir solo por amor. Me decepcionaba él que no me lo dijera, y me diera cuenta ante su gran nostalgia que en esos momentos demostraba y tal vez sin darse cuenta que la observaba.
+
+No podía hacer nada, por más que cumplía con mi papel de esposo, su nostalgia y melancolía no desaparecían. Sin embargo, esto me hizo amarla mas de lo que lo había hecho, me atraía con gran amor todo aquello que no demostraba y me dejaba ver entre sus ojos claros azules.
+
+Traba de hacer cumplir todos su caprichos o deseos, pero ella no pedía nada en lo absoluto. Llegó el día que no podía cargar mas con esa mascara y dejó caer el telón de su semblante, haciendo traslucir su infinita y trágica melancolía.
+
+Tanto fue mi deseo de amor, que entendía todo su odio y sufrimiento, y sin darme cuenta, poco a poco me mostraba así, tal como ella; con mucha nostalgia, con un repudio ante todo aquello que miraba, ante todos aquellos a los que amaba, ante mi mismo, ante el asco de estar encerrado en mi propia piel, y la única cosa a la que podía amar era la muerte.
+
+De pronto ella se daba cuenta de todo, de mi cambio y solo me abrazaba y se hundía junto conmigo en esa oscuridad de incertidumbre.
+
+Pocas cosas eran las que me hacían sentir bien, solo por la única razón de encontrar en ellas el sabor de la muerte. Podía encontrar en el amor a la muerte y más en el amor que me brindaba. La amaba y odiaba por eso, por amarme y sumergirse en mi propio limbo que en realidad era de ella; por llevarme a la superficie de la muerte.
+
+Ante todo, mi máscara seguía en pie en mi trabajo, en la sociedad que me rodeaba, nadie podía notar el cambio y la tristeza más que ella, y había momentos en que no diferenciaba entre el amor y el odio, caminaba ante esas calles sombrías pensando en ello y me detenía entre iglesias con un extraño deseo de estar dentro. Me negaba a hacerlo, y pronto lo olvidaba caminando en otras direcciones.
+
+Aquel sentimiento era tan grande que no lo podía retener sobre mi pecho y en ocasiones sentía como querría liberarse como en pequeñas explosiones; alteraba todo mi ser, y lo hacía tan vulnerable al miedo, a la soledad que en sí no era soledad si no más bien repudio ante todo aquello que me mirase o tocase. Sentía un mal tan espantoso que va más allá del dolor. Ahora sabía que no existía cura para ello, que no era más que una simple presa ante los colmillos de la nada.
+
+Poco tiempo después, ella empeoró, su rosada piel se tornaba a una piel en extremo pálida, me recordaba a la nieve misma sobre las montañas bañadas de árboles fríos y oscurecidos, sus ojos se opacaban cada segundo, como una veladora a punto de cesar su alumbrante llama.
+
+Quedo en cama, la luz le dañaba los ojos por lo que el cuarto siempre estaba oscuro, apenas penetraban algunos rayos sobre la roja cortina. De cualquier manera la oscuridad no era creada por el encerradillo del cuarto si no mas bien de su espíritu lleno de muerte.
+
+Los recuerdos me perturban..., sus deslumbrantes escenas que no duran mas de un segundo y cambian constantemente explotan en mi cabeza. Hay de mí, que de un dolor agonizante grito en silencio, no más que de la sangre del corazón mismo he derramado sobre mi alma, la he manchado todas las noches...
+
+...Excavando sobre aquella tierra de fétido olor y cubierto de lodo por la lluvia terminé. Mis alaridos sobrepasaban las luces de la muerte, con mis propias uñas excave, y excave, llamándola para mi felicidad. No soportaba llegar a ese cuarto borracho de angustia y melancolía encontrando solo mi almohada sobre la cama que de manchas rojas está. El silencio que creaba me perturbaba y penetraba hasta mi cerebro, se hundía sobre mi pecho, millones de alfileres traspasaban mi corazón una y otra vez, y ella simplemente posaba en cama en silencio. La llenaba de besos y carisias que sin respuesta alguna me dañaban.
+
+En repudios decesos bailaba con ella mezclándonos entre la oscuridad del cuarto y la poca luminosidad de las velas. La melodía nos mecía juntos, sus ojos permanecían cerrados y caía ante mí por su débil fuerza, parecía una muñeca sobre mis manos, cantaba en grandes himnos de vida que veía sobre sus ojos, bailábamos gozando del ritmo sinfónico. No puedo reconocer entre sueños y realidad, o era la fuerza del amor que me tenía ciego ante la muerte misma de mis pesadillas; no podía tomar mi mano mucho menos brindarme una caricia, la dejaba sobre la cama con los brazos juntos posando para mí como una pintura olvidada...
+
+...Mirando el techo una idea macabra recorrió mi mente, ¡no!, ¡Imposible!, le miré, quieta y los recuerdos volvieron causándome un dolor sobre los ojos. La tomé en mis brazos y la abrase, llenándola de besos como cada noche, hundiéndome con ella en ese abismo de amor, le susurraba “ce es la plus belle dame que j'ai vu”. Recorría todo su cabello rizado que noche con noche se opacaba más pero que se vislumbraba por lo hermoso de sus azules ojos como zafiros sobre la noche. La tocaba de pies a cabeza y besaba por todos lados, me llenaba de sangre y pedazos de carne putrefacta colgaban de mis dedos, me hundía tan profundamente y le hacía el amor como cada noche... ...desde el día de su muerte...
